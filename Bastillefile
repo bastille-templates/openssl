@@ -1,0 +1,5 @@
+# copy files
+CP root /
+
+CMD sh genkey-cert.sh
+CMD rm genkey-cert.sh
