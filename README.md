@@ -1,4 +1,4 @@
-# FEMP (FreeBSD, Nginx, MariaDB, and PHP(PHPMyAdmin))
+# Generate a self-signed SSL certificate using OpenSSL
 ## Now apply template to container
 ```sh
 bastille create openssl 14.1-RELEASE YourIP-Bastille
