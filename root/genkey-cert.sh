@@ -6,7 +6,7 @@ echo "In other words, don't use this script blindly without changing the -subj c
 sleep 10
 
 # Create the CA directory
-mkdir /usr/local/etc/ssl
+mkdir -p /usr/local/etc/ssl
 
 # Generate the CA primary key
 echo "Generating the CA primary key"
