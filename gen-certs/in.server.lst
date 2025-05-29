@@ -1,0 +1,3 @@
+server1_ip=10.0.0.10
+#filebeat1_ip=10.0.0.10
+#logstash1_ip=10.0.0.11
